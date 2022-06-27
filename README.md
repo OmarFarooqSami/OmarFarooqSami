@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OmarFarooqSami
+- 👀 I’m interested in Python & c
+- 🌱 I’m currently learning Python  
+- 📫 How to reach me samiissami#5288
